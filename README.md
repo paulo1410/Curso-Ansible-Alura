@@ -1,1 +1,1 @@
-# Curso de Ansible realizado pela Alura
+# Curso de Ansible da Alura
